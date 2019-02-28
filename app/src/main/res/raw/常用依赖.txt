@@ -1,0 +1,18 @@
+﻿BufferKnife的依赖：
+  compile 'com.jakewharton:butterknife:8.8.1'
+  annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
+  
+RecylerView的依赖：
+  compile 'com.android.support:recyclerview-v7:26.1.0'
+
+EventBus的依赖：
+  compile 'org.greenrobot:eventbus:3.0.0'
+
+Aria FTP下载上传框架依赖：
+  compile 'com.arialyy.aria:aria-core:3.4.9'
+  annotationProcessor 'com.arialyy.aria:aria-compiler:3.4.9'
+  Github：https://github.com/AriaLyy/Aria
+
+快速开发工具集合：
+compile 'com.blankj:utilcode:1.9.8'
+使用说明：https://blog.csdn.net/qq_33445600/article/details/78487857
